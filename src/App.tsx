@@ -1,5 +1,6 @@
+import Accordion from "./components/Accordion"
 const App = () => {
-  return <div>App</div>
+  return <Accordion />
 }
 
 export default App
